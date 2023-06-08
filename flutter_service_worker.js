@@ -46,8 +46,8 @@ const RESOURCES = {"assets/AssetManifest.json": "dafc3f6295c40b54d4c334c83ea313b
 "assets/assets/images/profile_pic.png": "5f56c3070f1c066ae15ecad12fb44f54",
 "assets/assets/images/psikoteknik_%25C3%25B6rnek1.png": "b4ac5b5485a1f447fa997b2c77be501a",
 "assets/FontManifest.json": "206c848e8b1407c709e3426be6a7989c",
-"assets/fonts/MaterialIcons-Regular.otf": "d0f2790686aa19ab930a40befdabce74",
-"assets/NOTICES": "bfd0eb8433f6e938175a75098f79ba51",
+"assets/fonts/MaterialIcons-Regular.otf": "3cdb653fe12750074b53fad9bc6f4ed3",
+"assets/NOTICES": "21e0e650b56080017c83cbe3680edfa7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -63,9 +63,9 @@ const RESOURCES = {"assets/AssetManifest.json": "dafc3f6295c40b54d4c334c83ea313b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "db5ce4ea343599b5ec76d9f3e2c20379",
-"/": "db5ce4ea343599b5ec76d9f3e2c20379",
-"main.dart.js": "d287c1f1e7ae5499c6c2a3a6f8515f14",
+"index.html": "04ba5e458f8686a248e67025874a45d5",
+"/": "04ba5e458f8686a248e67025874a45d5",
+"main.dart.js": "522cf345754c2115b218cafd12bf83a0",
 "manifest.json": "2763c74639b6ca6ba04840eb34972506",
 "version.json": "54c26688a01e487eac1395b5bba3eecb"};
 // The application shell files that are downloaded before a service worker can
